@@ -1,4 +1,4 @@
-# DashBord
+# DashBoard
 <div align="center">
 
 ```
